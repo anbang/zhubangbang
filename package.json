@@ -1,0 +1,50 @@
+{
+  "name": "zhubangbang",
+  "version": "0.1.0",
+  "namespace": "canonchain",
+  "description": "a package demo",
+  "main": "index.js",
+  "dependencies": {
+    "bignumber.js": "^7.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhubangbang/zhubangbang.git"
+  },
+  "keywords": [
+    "czr",
+    "canonchain",
+    "javascript",
+    "API"
+  ],
+  "author": "zhubangbang",
+  "authors": [
+    {
+      "name": "zhubangbang",
+      "email": "www@zhubangbang.com",
+      "url": "https://github.com/zhubangbang"
+    }
+  ],
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/zhubangbang/zhubangbang/issues"
+  },
+  "homepage": "https://github.com/zhubangbang/zhubangbang#readme",
+  "devDependencies": {
+    "babelify": "^8.0.0",
+    "browserify": "^16.2.2",
+    "del": "^3.0.0",
+    "exorcist": "^1.0.1",
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.1.0",
+    "gulp-rename": "^1.2.3",
+    "gulp-replace": "^1.0.0",
+    "gulp-streamify": "^1.0.2",
+    "gulp-uglify": "^3.0.0",
+    "jshint": "^2.9.5",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}
