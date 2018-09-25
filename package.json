@@ -1,7 +1,7 @@
 {
   "name": "zhubangbang",
-  "version": "0.1.0",
-  "namespace": "canonchain",
+  "version": "0.1.2",
+  "namespace": "zhubangbang",
   "description": "a package demo",
   "main": "index.js",
   "dependencies": {
@@ -15,8 +15,6 @@
     "url": "git+https://github.com/zhubangbang/zhubangbang.git"
   },
   "keywords": [
-    "czr",
-    "canonchain",
     "javascript",
     "API"
   ],
