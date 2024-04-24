@@ -1,12 +1,15 @@
 {
   "name": "zhubangbang",
-  "version": "0.1.2",
+  "version": "0.2.2",
   "namespace": "zhubangbang",
   "description": "a package demo",
   "main": "index.js",
   "dependencies": {
     "bignumber.js": "^7.2.1"
   },
+  "files": [
+    "src/**/*.sol"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
